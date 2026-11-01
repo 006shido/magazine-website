@@ -14,7 +14,7 @@ A sleek, modern editorial and digital magazine showcase website built with respo
 
 ## Getting Started
 
-Simply open `index.html` (or `editors-desk_1.html`) in any modern web browser, or serve with any static web server:
+Simply open `index.html` in any modern web browser, or serve with any static web server:
 
 ```bash
 # Using Python
