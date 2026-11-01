@@ -2,6 +2,8 @@
 
 A sleek, modern editorial and digital magazine showcase website built with responsive HTML, CSS, and JavaScript.
 
+🌐 **Live Demo**: [https://006shido.github.io/magazine-website/](https://006shido.github.io/magazine-website/)
+
 ## Features
 
 - **Dark & Light Mode**: Dynamic color scheme with high-contrast typography and subtle filmic accents.
@@ -25,3 +27,4 @@ npx serve .
 ## License
 
 MIT License
+
